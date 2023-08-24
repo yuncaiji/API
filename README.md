@@ -36,4 +36,4 @@
 不交流破解方案，且数据仅供学习用途。如果侵犯了您的权益请联系删除
 
 添加好友时请注明：api
-<img src="./weixin.png" width="200"/>
+![vx](weixin.jpeg)
